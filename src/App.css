@@ -1,0 +1,27 @@
+.post { margin: 20px; padding: 20px; border: 1px solid #ccc; }
+.comment { margin-top: 10px; }
+.replies { margin-left: 20px; }
+.reply { color: gray; }
+button { margin-top: 5px; cursor: pointer; }
+
+button {
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+  color: #333;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  text-decoration: underline;
+}
+
+p {
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+}
+
+.comment {
+  margin-bottom: 15px;
+}
